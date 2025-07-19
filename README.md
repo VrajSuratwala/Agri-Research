@@ -50,6 +50,6 @@ Together, let’s sow knowledge and harvest progress.
 
 **Vraj Suratwala**  
 🎓 MSCIT Student | 💡 Research Enthusiast | 🌱 Agricultural Futurist  
-📫 [LinkedIn]([https://www.linkedin.com/in/vraj-suratwala/]) | [GitHub](https://github.com/VrajSuratwala)
+📫 [LinkedIn](https://www.linkedin.com/in/vraj-suratwala/) | [GitHub](https://github.com/VrajSuratwala)
 
 
