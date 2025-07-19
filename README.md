@@ -49,7 +49,7 @@ Together, let’s sow knowledge and harvest progress.
 ## 🙌 Author
 
 **Vraj Suratwala**  
-🎓 MSCIT Student | 💡 Research Enthusiast | 🌱 Agricultural Futurist  
+🎓 MSCIT Student - Department of ICT,VNSGU,Surat,Gujarat,India | 💡 Research Enthusiast | 🌱 Agricultural Futurist  
 📫 [LinkedIn](https://www.linkedin.com/in/vraj-suratwala/) | [GitHub](https://github.com/VrajSuratwala)
 
 
